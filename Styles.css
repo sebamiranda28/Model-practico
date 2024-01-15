@@ -1,0 +1,47 @@
+body {
+  background-color: #131415;
+}
+
+.Encabezado-página h1 {
+  width: 140px;
+  height: 115px;
+  background: blue;
+  color: yellow;
+  border-radius: 1rem;
+}
+
+.Subtutulo-página {
+  width: 100px;
+  height: 110px;
+  background: green;
+  color: #fff;
+  border-radius: 1rem;
+}
+
+.Subtitulo-párrafo {
+  border: 5px solid blue;
+  padding: 10px;
+  color: #fff;
+  font-size: 40px;
+}
+
+.Primer-párrafo {
+  border: 5px dashed yellow;
+  padding: 10px;
+  color: #fff;
+  font-size: 35px;
+}
+
+.Segundo-párrafo {
+  border: 10px dotted green;
+  padding: 10px;
+  color: #fff;
+  font-size: 30px;
+}
+
+.Tercer-párrafo {
+  border: 5px double red;
+  color: #fff;
+  padding: 10px;
+  font-size: 25px;
+}
