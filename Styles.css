@@ -45,3 +45,35 @@ body {
   padding: 10px;
   font-size: 25px;
 }
+
+/* Footer */
+.Título-footer {
+  width: 150px;
+  height: 110px;
+  background: blue;
+  padding: 5px;
+  overflow: visible;
+  border-radius: 16px;
+  color: yellow;
+  font-size: 20px;
+}
+
+.Primer-párrafo-footer {
+  width: 50px;
+  height: 50px;
+  background: purple;
+  border-radius: 16px;
+  overflow: hidden;
+  color: #fff;
+  font-size: 18px;
+}
+
+.Segundo-párrafo-footer {
+  width: 100px;
+  height: 100px;
+  background: crimson;
+  overflow: scroll;
+  color: #fff;
+  border-radius: 16px;
+  font-size: 16px;
+}
